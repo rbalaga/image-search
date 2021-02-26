@@ -3,6 +3,8 @@
 ### Demo
 > A demo version of this project is available at http://photo-search.surge.sh/
 
+![screenshot](./public/screenshot.PNG)
+
 ### configuration
 `actions.js`
 ```yml pro
