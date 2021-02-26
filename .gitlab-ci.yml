@@ -21,4 +21,4 @@ deploy surge:
   stage: deploy
   script:
     - npm install -g surge
-    - surge --project ./build --domain photo-search.surge.sh
+    - surge --project ./build --domain ${PUBLISH_DOMAIN}
